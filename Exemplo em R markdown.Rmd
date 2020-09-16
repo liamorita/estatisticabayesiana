@@ -13,7 +13,6 @@ output:
 
 - Sejam os eventos A: o indivíduo ter a doença e B: o teste dar positivo.
 - Podemos construir o diagrama da árvore
-- <a href="https://github.com/liamorita/estatisticabayesiana/blob/master/cap1_fig31.JPG">Exemplo de figura (baixar no computador para "rodar")</a>
 
 ```{r}
 knitr::include_graphics('./Figuras/cap1_fig31.jpg')
