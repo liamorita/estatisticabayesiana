@@ -1,0 +1,19 @@
+---
+title: "Pacotes"
+author: "Lia"
+date: "18/09/2020"
+output:
+  pdf_document: default
+  html_document: default
+---
+
+```{r}
+library(DT) #datatable para criar tabelas
+#require(DT) #use library ou require para carregar os pacotes
+```
+
+```{r}
+library(captioner) #numerar tabelas no texto
+```
+
+
