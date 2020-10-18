@@ -1,2 +1,16 @@
 📝 Primeira Lista de Exercícios (para entregar) valendo a Lista 1: Exercícios 1, 2 e 3 da seção 1.2 - 07/out
 Formas de entrega: Digitado, ou escrito à mão e escaneado.
+
+📝 Segunda Lista de Exercícios (para entregar) valendo a Lista 2: 
+Escolher 1 caso de prioris conjugadas - olhando no quadro Síntese (seção 2.3),
+& / ou nos exercícios 1 & 2 da seção 2.4. 
+# Fazer a implementação numérica no R: 
+## Gerar os dados;
+## Atribuir o número do RGA como semente para geração dos dados;
+## Fazer o gráfico da função de verossimilhança;
+## Encontrar a estimativa de máxima verossimilhança e exibir graficamente;
+## Exibir a tabela com os valores do parâmetro, juntamente com os valores da verossimilhança;
+## Atribuir uma distribuição a priori para o parâmetro de interesse (escolha livre para os parâmetros da priori);
+## Calcular a média e a variância da distribuição a priori do parâmetro;
+## Fazer o gráfico das três funções conjuntamente: priori, verossimilhança & posteriori;
+## Encontrar a média e a variância a posteriori do parâmetro.
