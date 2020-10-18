@@ -14,3 +14,5 @@ Escolher 1 caso de prioris conjugadas - olhando no quadro Síntese (seção 2.3)
 ## Calcular a média e a variância da distribuição a priori do parâmetro;
 ## Fazer o gráfico das três funções conjuntamente: priori, verossimilhança & posteriori;
 ## Encontrar a média e a variância a posteriori do parâmetro.
+Forma de entrega: Relatório em R markdown - pdf ou html.
+Data de entrega: 09/nov no AVA.
