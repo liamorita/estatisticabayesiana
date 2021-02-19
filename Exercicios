@@ -1,7 +1,7 @@
-📝 Primeira Lista de Exercícios (para entregar) valendo a Lista 1: Exercícios 1, 2 e 3 da seção 1.2 - 07/out
+📝 Primeira Lista de Exercícios (para entregar): Exercícios 1, 2 e 3 da seção 1.2 
 Formas de entrega: Digitado, ou escrito à mão e escaneado.
 
-📝 Segunda Lista de Exercícios (para entregar) valendo a Lista 2: 
+📝 Segunda Lista de Exercícios (para entregar): 
 Escolher 1 caso de prioris conjugadas - olhando no quadro Síntese (seção 2.3),
 & / ou nos exercícios 1 & 2 da seção 2.4, ou outro caso nos materiais de referência da disciplina.
 # Fazer a implementação numérica no R: 
@@ -15,35 +15,3 @@ Escolher 1 caso de prioris conjugadas - olhando no quadro Síntese (seção 2.3)
 ## Fazer o gráfico das três funções conjuntamente: priori, verossimilhança & posteriori;
 ## Encontrar a média e a variância a posteriori do parâmetro.
 Forma de entrega: Relatório em R markdown - pdf ou html.
-Data de entrega: 09/nov no AVA.
-
-📝 Trabalho para entregar - Trabalho escrito & Seminário
-Algumas sugestões de materiais para pegar exemplos:
-
-Introdução ao Jags
-https://bookdown.org/steve_midway/BHME/Ch4.html
-
-Practical Data Analysis with JAGS using R
-Department of Biostatistics Institute of Public Health, University of Copenhagen
-http://bendixcarstensen.com/Bayes/Cph-2012/pracs.pdf
-
-Bayesian Models in R
-https://www.r-bloggers.com/2019/05/bayesian-models-in-r-2/
-
-Understanding Bayesian Inference
-https://www.r-bloggers.com/2019/04/understanding-bayesian-inference-with-a-simple-example-in-r/
-
-Inferência Bayesiana em Modelos Lineares
-https://www.ime.unicamp.br/~cnaber/aula_IB_ML_2S_2013.pdf
-
-Pacote Rjags
-https://cran.r-project.org/web/packages/runjags/vignettes/quickjags.html
-
-Alguns Exemplos de Rjags
-http://rstudio-pubs-static.s3.amazonaws.com/15236_9bc0cd0966924b139c5162d7d61a2436.html
-
-Mas pode fazer com prioris conjugadas? 
-SIM. Pode pegar um dos casos de prioris conjugadas, e desenvolver um exemplo prático ou simulado.
-
-NÃO serão aceitos aplicações iguais!
-Não pode haver dois alunos com o mesmo conjunto de dados, sendo reais ou simulados!
