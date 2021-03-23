@@ -16,7 +16,7 @@ output:
 - Sejam os eventos A: o indivíduo ter a doença e B: o teste dar positivo.
 - Podemos construir o diagrama da árvore
 
-```{r}
+```{r,fig.width=5cm,fig.height=10}
 knitr::include_graphics('./Figuras/cap1_fig31.jpg')
 ```
 
