@@ -1,8 +1,10 @@
 ---
 output:
-  pdf_document: default
+  pdf_document: 
+  latex_engine: xelatex
   html_document: default
 ---
+
 
 **Exemplo 1:** Exames de diagnóstico não são infalíveis, mas deseja-se que tenha probabilidade pequena de erro. Um exame detecta uma certa doença, caso ela exista, com probabilidade 0,9. Se a doença não existir, o exame corretamente aponta isso com probabilidade 0,8. Considere que estamos aplicando esses exames em uma população com $10\%$ de prevalência dessa doença. Para um indivíduo escolhido ao acaso, pergunta-se:
 
