@@ -1,7 +1,7 @@
 📝 01/março: Instalar o R base & R studio; começar a fazer a lista de exercícios.
 📝 15/março: Os alunos devem fazer o exercício 1 (da seção 1.2), com geração de relatório em R markdown - com saída em PDF e/ou HTML.
 📝 22/março: Os alunos devem terminar a lista 1 (exercícios 1, 2 e 3), com geração de relatório em R markdown - com saída em PDF e/ou HTML.
-📝 29/março: 
+📝 05/abril: 
 olhar o seguinte exemplo:
 "Exemplo 2 Abaixo temos 10 valores provenientes.." na página de prioris conjugadas:
 https://rpubs.com/liamorita/bayes_un2_conjugadas:
@@ -13,7 +13,7 @@ a) crie o gráfico da função f(x)=x^2 => crie um dataset, e utilize o ggplot &
 para mostrar o ponto de mínimo (cor vermelha);
 b) encontre o ponto de mínimo, com o comando optimize do R & MAXIMUM=FALSE.
 ######################################################################################
-📝 29/março:  Praticar o Caso 3, só que variando o N e o n, 
+📝 05/abril:  Praticar o Caso 3, só que variando o N e o n, 
 também extendendo (gereralizando e vendo as variações) do programa do R 
 com aplicação para Bernoulli (como fazer para gerar?)
 Geometrica (como fazer para gerar?)
